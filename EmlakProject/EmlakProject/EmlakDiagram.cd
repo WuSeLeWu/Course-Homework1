@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EmlakProject.Adresler.Adres" Collapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAABIIAAAAEAAAAQAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adresler\Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Adresler.Sehir" Collapsed="true">
+    <Position X="23.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEYAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adresler\Sehir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Adresler.Semt" Collapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgAABAAAAAAEAAAAAAAAEAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adresler\Semt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Arsa.Arsa" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Arsa\Arsa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Arsa.KiralikArsa" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Arsa\KiralikArsa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Arsa.SatilikArsa" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arsa\SatilikArsa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Konutlar.Ev" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Konutlar\Ev.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Konutlar.KiralikEv" Collapsed="true">
+    <Position X="12.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Konutlar\KiralikEv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Konutlar.KiralikVilla" Collapsed="true">
+    <Position X="17.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Konutlar\KiralikVilla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Konutlar.Konut" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAAAEAAAAAAAAAAAAAAAAAAAAAIIAAAA=</HashCode>
+      <FileName>Konutlar\Konut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Konutlar.SatilikEv" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Konutlar\SatilikEv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Konutlar.SatilikVilla" Collapsed="true">
+    <Position X="15" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Konutlar\SatilikVilla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Konutlar.Villa" Collapsed="true">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Konutlar\Villa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Musteriler.IletisimBilgileri" Collapsed="true">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Musteriler\IletisimBilgileri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Musteriler.Musteri" Collapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAhAAAAAAEAAAAAACAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Musteriler\Musteri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.Emlak" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAwABAQAAAAEAAAAACAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakProject.KiralikEmlakBilgileri" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkAAAAAAAAAAgAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program" Collapsed="true">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

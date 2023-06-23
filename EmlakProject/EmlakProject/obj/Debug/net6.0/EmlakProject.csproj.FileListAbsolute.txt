@@ -1,0 +1,30 @@
+D:\Masaüstü\EmlakProject\EmlakProject\bin\Debug\net6.0\EmlakProject.exe
+D:\Masaüstü\EmlakProject\EmlakProject\bin\Debug\net6.0\EmlakProject.deps.json
+D:\Masaüstü\EmlakProject\EmlakProject\bin\Debug\net6.0\EmlakProject.runtimeconfig.json
+D:\Masaüstü\EmlakProject\EmlakProject\bin\Debug\net6.0\EmlakProject.dll
+D:\Masaüstü\EmlakProject\EmlakProject\bin\Debug\net6.0\EmlakProject.pdb
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\EmlakProject.csproj.AssemblyReference.cache
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\EmlakProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\EmlakProject.AssemblyInfoInputs.cache
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\EmlakProject.AssemblyInfo.cs
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\EmlakProject.csproj.CoreCompileInputs.cache
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\EmlakProject.dll
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\refint\EmlakProject.dll
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\EmlakProject.pdb
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\EmlakProject.genruntimeconfig.cache
+D:\Masaüstü\EmlakProject\EmlakProject\obj\Debug\net6.0\ref\EmlakProject.dll
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\bin\Debug\net6.0\EmlakProject.exe
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\bin\Debug\net6.0\EmlakProject.deps.json
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\bin\Debug\net6.0\EmlakProject.runtimeconfig.json
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\bin\Debug\net6.0\EmlakProject.dll
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\bin\Debug\net6.0\EmlakProject.pdb
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\EmlakProject.csproj.AssemblyReference.cache
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\EmlakProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\EmlakProject.AssemblyInfoInputs.cache
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\EmlakProject.AssemblyInfo.cs
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\EmlakProject.csproj.CoreCompileInputs.cache
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\EmlakProject.dll
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\refint\EmlakProject.dll
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\EmlakProject.pdb
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\EmlakProject.genruntimeconfig.cache
+D:\Masaüstü\EmlakProject - Kopya\EmlakProject\obj\Debug\net6.0\ref\EmlakProject.dll
